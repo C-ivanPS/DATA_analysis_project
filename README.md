@@ -1,2 +1,2 @@
-# Identifying Business and Customer Needs Through Queries
+# Identifying Business and Customer Needs Through Queries (EDA)
 To effectively support both business sales and customer relations, it is essential to construct targeted queries. Developing these queries enables a deeper understanding of the potential needs that may arise from sales activities and customer interactions. By systematically analyzing data and trends through well-crafted queries, businesses can better anticipate requirements and deliver improved solutions to their clients.
